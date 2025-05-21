@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VDl2UmJ6BpU=",
+  "success": true,
+  "projectFilePath": "D:\\Shailee\\CodeExamples\\TaskTracker_Rebuilt\\TaskTracker.API\\TaskTracker.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Bharat\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
