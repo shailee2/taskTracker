@@ -30,6 +30,8 @@ A simple full-stack task management application using AngularJS for the frontend
 - `PUT /api/tasks/{id}` - Update a task
 - `DELETE /api/tasks/{id}` - Delete a task
 
-## ✍️ Author
-Shailee Patel
-
+## Author
+Shailee Patel <br>
+Email: shaileepatel05@gmail.com <br>
+LinkedIn: linkedin.com/in/shailee-patel-04481b285<br>
+GitHub: github.com/shailee2
